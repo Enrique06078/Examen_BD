@@ -25,104 +25,25 @@ begin
 end;
 
 /*-----------------------------------GASTRONOMIA---------------------------------------------------*/
-Execute pa_insert (1,190020057,'Kenia Daniela','Montes','Espinosa','Gastronomia','8G12',8, 'C', 86);
-Execute pa_insert (2,190020065,'Nora Lizeth','Vazquez','Corona','Gastronomia','8G12',8, 'C', 89);
-Execute pa_insert (3,190020069,'Alexis','Chavez','Quiñones','Gastronomia','8G12',8, 'C', 83);
-Execute pa_insert (4,190020068,'Axel Yair','Tellez','Bermudez','Gastronomia','8G12',8, 'C', 80);
-Execute pa_insert (5,190020100,'Fransisco Xavier','Gutierrez','Cruz','Gastronomia','8G12',8, 'C', 80);
-Execute pa_insert (6,190020085,'Bruno','Salas','Rodriguez','Gastronomia','8G12',8, 'C', 90);
-Execute pa_insert (7,190020105,'Nubia Yadira','Corona','Espinosa','Gastronomia','8G12',8, 'C', 80);
-Execute pa_insert (8,190020104,'America Atziri','Inclan','Malagon','Gastronomia','8G12',8, 'C', 85);
-Execute pa_insert (9,190020058,'Gabriela Monserrat','Macedo','Andrade','Gastronomia','8G12',8, 'C', 90);
-Execute pa_insert (10,190020077,'Rafael','Valencia','Hernández','Gastronomia','8G12',8, 'C', 84);
+Execute pa_insert ();
+
 /*-----------------------------------ENERGIAS RENOVABLES---------------------------------------------------*/
-Execute pa_insert (11,185010032,'Zaira Elisa','Castillo','Mejia','Energias Renovables','8E11',8,'I',75);
-Execute pa_insert (12,225020008,'Bitia','Ramales','López','Energias Renovables','2ER11',2,'I',95);
-Execute pa_insert (13,225022008,'Eduardo','Martínez','Cazares','Energias Renovables','8E11',8,'I',86);
-Execute pa_insert (14,195020008,'Juan','Reyes','Barrios','Energias Renovables','8E11',8,'I',87);
-Execute pa_insert (15,195020004,'Jesús Uriel','Valdez','Bobadilla','Energias Renovables','7E11',7,'I',88);
-Execute pa_insert (16,205020016,'Jonathan','Escalona','Dominguez','Energias Renovables','6E11',6,'I',86);
-Execute pa_insert (17,225020001,'Saul Pedro','Sanchez','Sanchez','Energias Renovables','7E11',7,'I',79);
-Execute pa_insert (18,225020002,'Ingrid Airin','Hernandez','Navarrete','Energias Renovables','2E11',2,'I',89);
-Execute pa_insert (19,225020011,'Rafael','Espinosa','Antonio','Energias Renovables','2E11',2,'I',82);
-Execute pa_insert (20,225020007,'Eder Emerson','Arrucha','Alarcon','Energias Renovables','2E11',2,'I',94);
+Execute pa_insert ();
+
 /*-----------------------------------ADMINISTRACION---------------------------------------------------*/
-execute pa_insert (21,202020059,'Gael Uriel','Lopez','Tolentino','Administracion','6IAD11',6,'D',89);
-execute pa_insert (22,192010055,'Juan Carlos','Gutierrez','Palacios','Administracion','6IAD11',6,'D',87);
-execute pa_insert (23,202020011,'israel','Salazar','Ramirez','Administracion','6IAD11',6,'D',90);
-execute pa_insert (24,202020036,'Fernanda','Santana','Patiño','Administracion','5AD11',5,'D',90);
-execute pa_insert (25,192020021,'Frida Fernanda','Sanchez','Plaza','Administracion','8IAD11',8,'D',97);
-execute pa_insert (26,192020027,'Yasmin','Hernandez','Santiago','Administracion','8IAD11',8,'D',96);
-execute pa_insert (27,192022001,'Angel','Guerrero','Rodriguez','Administracion','7IAD11',7,'D',83);
-execute pa_insert (28,192020072,'Jesica','Razo','Quiroz','Administracion','8IAD11',8,'D',90);
-execute pa_insert (29,192020103,'Ulises','Cisneros','Dominguez','Administracion','8IAD11',8,'D',87);
-execute pa_insert (30,212020086,'Lesslie Guadalupe','Luna','Monroy','Administracion','4AD12',4,'D',87);
+execute pa_insert ();
 /*-----------------------------------SISTEMAS AUTOMOTRIZ---------------------------------------------------*/
-execute pa_insert (31,219010005,'David', 'Muñoz','Rodríguez', 'Sistemas Automotrices','5SA11',5,'E',81);
-execute pa_insert (32,219010006,'Carlos Eduardo', 'Vazquez','Corona', 'Sistemas Automotrices','5SA11',5,'E',80);
-execute pa_insert (33,239013001,'Edmundo Miguel', 'Sanchez','Alto', 'Sistemas Automotrices','5SA11',5,'E',70);
-execute pa_insert (34,219010013,'Manuel', 'De la Trinidad','Hernandez', 'Sistemas Automotrices','5SA11',5,'E',78);
-execute pa_insert (35,229020040,'Luis Manuel', 'Castillo','Torres', 'Sistemas Automotrices','2SA11',2,'D',83);
-execute pa_insert (36,219010007,'Guillermo', 'Hernandez','Montesinos', 'Sistemas Automotrices','5SA11',5,'E',70);
-execute pa_insert (37,219010008,'jairo', 'Zamudio','Juarez', 'Sistemas Automotrices','5SA11',5,'E',81);
-execute pa_insert (38,219013002,'Jorge', 'Gonzalez','Carranza', 'Sistemas Automotrices','5SA11',5,'E',78);
-execute pa_insert (39,219010009,'Juan Pablo', 'Hernandez','Morales', 'Sistemas Automotrices','5SA11',5,'E',70);
-execute pa_insert (40,219010010,'Antonio', 'Salazar','Perez', 'Sistemas Automotrices','5SA11',5,'E',80);
+execute pa_insert ();
 /*-----------------------------------INGENIERIA AMBIENTAL---------------------------------------------------*/
-execute pa_insert (41,214020015,'Jesus Rodrigo', 'Linares','Martinez', 'Ingenieria Ambiental','4A11',4,'H',79);
-execute pa_insert (42,214020009,'Isabel Naomi', 'Cabrera','Salgado', 'Ingenieria Ambiental','4A11',4,'H',82);
-execute pa_insert (43,214020012,'Raul Alejandro', 'Navarrete','Cruz', 'Ingenieria Ambiental','4A11',4,'H',90);
-execute pa_insert (44,214020003,'Asael David', 'Corona','Luna', 'Ingenieria Ambiental','4A11',4,'H',86);
-execute pa_insert (45,214002022,'Manuel Isaac', 'Cabañas','Pineda', 'Ingenieria Ambiental','4A11',4,'H',85);
-execute pa_insert (46,214020033,'Miguel Angel', 'Juarez','Torres', 'Ingenieria Ambiental','4A11',4,'H',82);
-execute pa_insert (47,214020035,'Ismael', 'Hernadez','Juarez', 'Ingenieria Ambiental','4A11',4,'H',80);
-execute pa_insert (48,214020019,'Jesus Eduardo', 'Chiquini','Lopez', 'Ingenieria Ambiental','4A11',4,'H',88);
-execute pa_insert (49,214020024,'Gemma Yamilet', 'Martinez','Cruz', 'Ingenieria Ambiental','4A11',4,'H',70);
-execute pa_insert (50,214020032,'Marivel', 'Estrada','Miranda', 'Ingenieria Ambiental','4A11',4,'H',90);
+execute pa_insert ();
 /*-----------------------------------INGENIERIA INDUSTRIAL---------------------------------------------------*/
-execute pa_insert (51,233012005,'Raul Alejandro', 'Rangel','Ramirez', 'Ingenieria Industrial','7I11',7,'F',88);
-execute pa_insert (52,233012006,'Sergio', 'Suarez','Corona', 'Ingenieria Industrial','7I11',7,'F',87);
-execute pa_insert (53,203010014,'Juan de Dios', 'Sanchez','Duran', 'Ingenieria Industrial','7I11',7,'F',95);
-execute pa_insert (54,213020002,'Jaqueline', 'Anastacio','Bravo', 'Ingenieria Industrial','4I11',4,'F',84);
-execute pa_insert (55,213020028,'Edith', 'Miran','Sepulveda', 'Ingenieria Industrial','4I11',4,'F',85);
-execute pa_insert (56,213020021,'Estefania', 'Segovia','Ocote', 'Ingenieria Industrial','4I11',4,'F',89);
-execute pa_insert (57,213020020,'Alenka Michelle', 'Sandoval','Salas', 'Ingenieria Industrial','4I11',4,'F',80);
-execute pa_insert (58,213020023,'Yoselin', 'Hernandez','Ramos', 'Ingenieria Industrial','4I11',4,'F',91);
-execute pa_insert (59,213020019,'Diana', 'Rangel','Ortega', 'Ingenieria Industrial','4I11',4,'F',82);
-execute pa_insert (60,213020025,'Veronica', 'Gonzalez','Contreras', 'Ingenieria Industrial','4I11',4,'F',73);
+execute pa_insert ();
 /*-----------------------------------SISTEMAS COMPUTACIONALES---------------------------------------------------*/
-execute pa_insert (61,216020029,'Moisés Enrique', 'Lucero','treviño', 'Ingeniería en Sistemas Computacionales','3S21',3,'B',70);
-execute pa_insert (62,216020093,'Jesus Ezequiel', 'Flores','Cruz', 'Ingeniería en Sistemas Computacionales','5S11',5,'A',75);
-execute pa_insert (63,206020058,'Judith Metabel', 'Ramales','Lopez', 'Ingeniería en Sistemas Computacionales','6S11',6,'A',95);
-execute pa_insert (64,186010106,'Orlando', 'Chavero','Mejia', 'Ingeniería en Sistemas Computacionales','7S11',7,'B',80);
-execute pa_insert (65,206010031,'Ariana Montserrat', 'Saavedra','Luis', 'Ingeniería en Sistemas Computacionales','7S11',7,'B',85);
-execute pa_insert (66,196020150,'Jose Leonardo', 'Gonzalez','Valadez', 'Ingeniería en Sistemas Computacionales','7S11',7,'B',93);
-execute pa_insert (67,206010009,'Perla Ivonne', 'Cordoba','Morales', 'Ingeniería en Sistemas Computacionales','7S11',7,'B',92);
-execute pa_insert (68,196020039,'Marcos Aaron', 'Lopez','Garcia', 'Ingeniería en Sistemas Computacionales','7S11',7,'B',88);
-execute pa_insert (69,196020018,'Luis Abraham', 'Lopez','Garcia', 'Ingeniería en Sistemas Computacionales','7S11',7,'B',90);
-execute pa_insert (70,206010017,'Diego', 'Hernandez','Guzman', 'Ingeniería en Sistemas Computacionales','7S11',7,'B',90);
+execute pa_insert ();
 /*-----------------------------------TICS---------------------------------------------------*/
-execute pa_insert (71,207010006,'Angel Gabriel', 'Hernandez','Garcia', 'Ingeniería en Tecnologias de la Información y Comunicaciones','7T11',7,'L',93);
-execute pa_insert (72,207010014,'Pamela', 'Perez','Allala', 'Ingeniería en Tecnologias de la Información y Comunicaciones','7T11',7,'L',93);
-execute pa_insert (73,227020025,'Yocelin', 'Hernandez','Hernandez', 'Ingeniería en Tecnologias de la Información y Comunicaciones','2T11',2,'L',86);
-execute pa_insert (74,227020010,'Beatriz', 'Gonzalez','Gonzalez', 'Ingeniería en Tecnologias de la Información y Comunicaciones','2T11',2,'L',90);
-execute pa_insert (75,227020031,'Iris Jazmin', 'Patricio','Martinez', 'Ingeniería en Tecnologias de la Información y Comunicaciones','2T11',2,'L',86);
-execute pa_insert (76,217020020,'Jorge', 'Avila','Loranca', 'Ingeniería en Tecnologias de la Información y Comunicaciones','4T11',4,'E',75);
-execute pa_insert (77,227020022,'Josué', 'Manjarez','Zumoza', 'Ingeniería en Tecnologias de la Información y Comunicaciones','4T11',4,'E',84);
-execute pa_insert (78,227020026,'Ángel', 'Garcia','Emily', 'Ingeniería en Tecnologias de la Información y Comunicaciones','4T11',4,'E',99);
-execute pa_insert (79,227020021,'Maira Jocelyn', 'Navarro','Garcia', 'Ingeniería en Tecnologias de la Información y Comunicaciones','4T11',4,'E',70);
-execute pa_insert (80,227020002,'Fernando', 'Báez','Valencia', 'Ingeniería en Tecnologias de la Información y Comunicaciones','8T11',8,'E',90);
+execute pa_insert ();
 /*-----------------------------------CONTADOR PUBLICO---------------------------------------------------*/
-execute pa_insert (81,191020117,'Angel','Omez','Evangelista','Contaduria pública','8C12',8,'I',80);
-execute pa_insert (82,191020051,'Rocío','Lopez', 'De la Cruz','Contaduria pública','8C12',8,'I',80);
-execute pa_insert (83,191020082,'Anabelin','Solano','Herrera','Contaduria pública','8C12',8,'I',90);
-execute pa_insert (84,191020037,'Saray','Galindo','Jimenez','Contaduria pública','8C12',8,'I',90);
-execute pa_insert (85,213030022,'Fernando','Guzman','Sanchez','Contaduria pública','4C11',4,'I',81);
-execute pa_insert (86,213020134,'Juan','Miran','Artega','Contaduria pública','4C11',4,'I',89);
-execute pa_insert (87,213020221,'Estefania','Ruiz','Ocote','Contaduria pública','4C11',4,'I',85);
-execute pa_insert (88,213020032,'Michelle','Garcia','Hernandez','Contaduria pública','2C11',2,'I',83);
-execute pa_insert (89,213020082,'Aranza','Romero','Salas','Contaduria pública','2C11',2,'I',80);
-execute pa_insert (90,213020062,'Fernana','Esionoza','Rodriguez','Contaduria pública','2C11',2,'I',88);
+execute pa_insert ();
 
 
 create or replace procedure pa_carrera
@@ -378,67 +299,7 @@ begin
     insert into profesores_tesoem values(pr_id, pr_nombre, pr_a_paterno, pr_a_materno, pr_carrera, pr_clase, pr_grupo);
 end;
 
-execute insert_profe (1,'Alberto','Dorado','Mendez','Ing. Industrial','Matemáticas','2I12');
-execute insert_profe (2,'Jose','Flores','Flores','Ing. Industrial' ,'Automatismos 4.0','8I11');
-execute insert_profe (3,'Jose','Flores','Flores','Ing. Industrial','Automatismos 4.0','8I12');
-execute insert_profe (4,'Jose','Flores','Flores','Ing. Tecnologias de la Información y Comunicaciones','Autómata Programable','6I11');
-execute insert_profe (5,'Jose','Flores','Flores','Ing. Tecnologias de la Información y Comunicaciones','Redes de computadora','7T11');
-execute insert_profe (6,'Gustavo Moisés','Romero','Gonzalez','Ing. Tecnologias de la Información y Comunicaciones','Sistemas Operativos I','5T11');
-execute insert_profe (7,'Gustavo Moisés','Romero','Gonzalez','Ing. Sistemas Computacionales','Taller de Sistemas Operativos','6S11');
-execute insert_profe (8,'Gustavo Moisés','Romero','Gonzalez','Ing. Sistemas Computacionales','Taller de Sistemas Operativos','6S12');
-execute insert_profe (9,'Gustavo Moisés','Romero','Gonzalez','Ing. Sistemas Computacionales','Taller de Sistemas Operativos','6S21');
-execute insert_profe (10,'Gustavo Moisés','Romero','Gonzalez','Ing. Tecnologias de la Información y Comunicaciones','Sistemas Operativos II','6T11');
-execute insert_profe (11,'Gustavo Moisés','Romero','Gonzalez','Ing. Tecnologias de la Información y Comunicaciones','Bases de Datos Distribuidas','7T11');
-execute insert_profe (12,'Magaly','Gonzalez','Mota','Ing. Sistemas Computacionales','Ecuaciones Diferenciales','4S11');
-execute insert_profe (13,'Magaly','Gonzalez','Mota','Ing. Sistemas Computacionales','Ecuaciones Diferenciales','4S12');
-execute insert_profe (14,'Magaly','Gonzalez','Mota','Ing. Sistemas Computacionales','Ecuaciones Diferenciales','4S21');
-execute insert_profe (15,'Mayra','Ortiz','Gracida','Ing. Industrial','Estudio del trabajo','4I11');
-execute insert_profe (16,'Mayra','Ortiz','Gracida','Ing. Industrial','Estudio del trabajo','4I12');
-execute insert_profe (17,'Mayra','Ortiz','Gracida','Ing. Industrial','Estudio del trabajo','4I21');
-execute insert_profe (18,'Adriana Arisbel','Ortega','Reyes','Ing. Industrial','Cálculo integral','2I12');
-execute insert_profe (19,'Adriana Arisbel','Ortega','Reyes','Ing. Industrial','Cálculo integral','2I11');
-execute insert_profe (20,'Adriana Arisbel','Ortega','Reyes ','Ing. Sistemas Automotrices','Ecuaciones Diferenciales','4SA11');
-execute insert_profe (21,'Adriana Arisbel','Ortega','Reyes ','Ing. Sistemas Automotrices','Álgebra Lineal ','2SA21');
-execute insert_profe (22,'Adriana Arisbel','Ortega','Reyes','Ing. Tecnologias de la Información y Comunicaciones','Álgebra Lineal','1T11');
-execute insert_profe (23,'Camarillo','Cadena','Mendrano','Ing. Ambiental','Calculo integral','3A12');
-execute insert_profe (24,'César Alejandro','López','Castañeda','Ing. Sistemas Computacionales','Ingenieria de Software','6S11');
-execute insert_profe (25,'César Alejandro','López','Castañeda','Ing. Sistemas Computacionales','Ingenieria de Software','6S12');
-execute insert_profe (26,'César Alejandro','López','Castañeda','Ing. Sistemas Computacionales','Programacion Lógica y funcional','8S12');
-execute insert_profe (27,'Ariana','Lozada','Pérez','Lic. Administracion','Taller de Administracion','1AD11');
-execute insert_profe (28,'Ana Lilia','Mendizabal','Garduño','Lic. Administracion','Mercadotecnia','4AD11');
-execute insert_profe (29,'Alberto','Dorado','Mendez','Ing. Industrial','Matematicas','2I12');
-execute insert_profe (30,'Jose','Flores','Flores','Ing. Industrial','Automatas','8I11');
-execute insert_profe (31,'Jose','Flores','Flores','Ing. Industrial','Automatas','8I12');
-execute insert_profe (32,'Francisco Raul','Salvador','Ginez','Ing. Sistemas Computacionales','Redes de Computadoras','6S11');
-execute insert_profe (33,'Francisco Raul','Salvador','Ginez','Ing. Sistemas Computacionales','Redes de Computadoras','6S12');
-execute insert_profe (34,'Fernando','Salgado','Cruz','Lic. Administracion','Taller de Administracion','2AD22');
-execute insert_profe (35,'Janett','Garcia','Sanchez','Lic. Administracion','Investigacion','2AD22');
-execute insert_profe (36,'Janett','Garcia','Sanchez','Lic. Administracion','Investigacion',' 2AD21');
-execute insert_profe (37,'Enrique','Limon','Carrilla','Lic. Administracion','Taller de Investigacion','2AD22');
-execute insert_profe (38,'Enrique','Limon','Carrilla','Lic. Administracion','Taller de Investigacion','2AD21');
-execute insert_profe (39,'Julio Cesar','Muñoz','Perez','Ing. Energias Renovables','Algebra Lineal','2E11');
-execute Insert_Profe (40,'Daniel','Martinez','Carvajal','Ing. Energias Renovables','Electromagnetismo','2E11');
-execute Insert_Profe (41,'Victor','Fuentes','Olivares','Ing. Energias Renovables','Circuitos','4E11');
-execute Insert_Profe (44,'Miriam','Mesa','Loyola','Ing. Ambiental','Higiene','5A11');
-execute Insert_Profe (45,'Miriam','Mesa','Loyola','Ing. Ambiental','Higiene',' 5A12');
-execute Insert_Profe (46,'Jose','Meza','Martinez','Ing. Ambiental','Fundamentos','4A11');
-execute Insert_Profe (47,'Jose','Meza','Martinez','Ing. Ambiental','Fundamentos','4A12');
-execute Insert_Profe (48,'Jose','Meza','Martinez','Ing. Ambiental','Fundamentos','4A21');
-execute Insert_Profe (49,'Mendrano','Cabrera','Carrillo','Ing. Ambiental','Algebra','2A11');
-execute Insert_Profe (50,'Mendrano','Cabrera','Carrillo','Ing. Ambiental','Algebra','2A12');
-execute Insert_Profe (51,'Pedro Abel','Rojas','Rivera','Ing. Tecnologias de la Información y Comunicaciones','Estructuras Y Od','3T11');
-execute Insert_Profe (52,'Nayely Beatriz','Gonzalez','Contreras','Ing. Tecnologias de la Información y Comunicaciones','Admin General','3T11');
-execute Insert_Profe (53,'Jose Luis','Villareal','Lopez','Ing. Tecnologias de la Información y Comunicaciones','Electricidad','3T11');
-execute Insert_Profe (54,'Adriana','Ortega','Reyes','Ing. Sistemas Automotrices','Calculo','4SA11');
-execute Insert_Profe (55,'Benito','Lopez','Razo','Ing. Sistemas Automotrices','Diferencial','5SA11');
-execute Insert_Profe (56,'Benito','Lopez','Razo','Ing. Sistemas Automotrices','Diferencial','5SA12');
-execute Insert_Profe (57,'Alicia','Mendoza','Garduño','Ing. Sistemas Automotrices','Circuitos','5SA12');
-execute Insert_Profe (58,'Zharahi','Castaño','Hernandez','Ing. Contaduria Pública','Calculo','6C11');
-execute Insert_Profe (59,'Omar','Garcia','Jimenez','Ing. Contaduria Pública','Estadistica','3C12');
-execute Insert_Profe (60,'Roberto','Lopez','Castro','Ing. Contaduria Pública','Tutoria','4C11');
-execute Insert_Profe (61,'Esthela','Martinez','Juarez','Lic. Gastronomia','Potabilizacion','6G11');
-execute Insert_Profe (62,'Eduardo','Cordba','Aragon','Lic. Gastronomia','Cocina','6G12');
-execute Insert_Profe (63,'Victor','Durngo','Morales','Lic. Gastronomia','Evaluacion','6G21');
+execute insert_profe ();
 
 select distinct Nombre_prof from profesores_tesoem;
 
